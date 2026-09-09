@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gmail Ad Remover</string>
+    <string name="module_description">Hides sponsored rows in Gmail Promotions and Social.</string>
+    <string-array name="xposed_scope">
+        <item>com.google.android.gm</item>
+    </string-array>
+</resources>
